@@ -14,7 +14,7 @@
     },
     {
       "name": "model_ds920p.dtb",
-      "url": "https://raw.githubusercontent.com/AlkinYeung/redpill-tool-chain/master/redpill-dtb/universal.json",
+      "url": "https://raw.githubusercontent.com/AlkinYeung/redpill-tool-chain/master/redpill-dtb/model_ds920p.dtb",
       "sha256": "20DC3CEB58C42E192603A3BC2EA3875EC3629645360032488455399448DD7EA0",
       "packed": false
     },
